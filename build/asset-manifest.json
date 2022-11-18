@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evaluacion-fe3/static/css/main.0ce20d16.css",
+    "main.js": "/evaluacion-fe3/static/js/main.2851263e.js",
+    "index.html": "/evaluacion-fe3/index.html",
+    "main.0ce20d16.css.map": "/evaluacion-fe3/static/css/main.0ce20d16.css.map",
+    "main.2851263e.js.map": "/evaluacion-fe3/static/js/main.2851263e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce20d16.css",
+    "static/js/main.2851263e.js"
+  ]
+}
